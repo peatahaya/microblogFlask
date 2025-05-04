@@ -1,6 +1,6 @@
 Flask Mega Tutorial
 
-This repository contains the code for a microblog application built as part of the Flask Mega Tutorial by Miguel Grinberg. The tutorial guides you through creating a fully-featured web application using the Flask framework, covering everything from setup to deployment. This project is based on the concepts introduced in Part I: Hello, World! and serves as a starting point for the tutorial series.
+This repository contains the code for a microblog application built as part of the Flask Mega Tutorial by Miguel Grinberg. The tutorial guides you through creating a fully-featured web application using the Flask framework. This project is based on the concepts introduced in Part 1, 2, 3 and 4.
 
 Features
 
